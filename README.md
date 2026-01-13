@@ -27,23 +27,8 @@ python-dotenv
 Logging module
 
 **Project Structure**
-Document360/
-│
-├── app/
-│   ├── main.py                  # Application entry point
-│   ├── config.py                # Environment variable loader
-│   ├── logger.py                # Logging configuration
-│   ├── http_client.py           # HTTP request handler
-│   │
-│   ├── services/
-│   │   └── service.py           # Drive API operations
-│   │
-│   └── models/
-│       └── response_validator.py # API response validation
-│
-├── .env                         # API token & user ID
-├── requirements.txt
-└── README.md
+<img width="637" height="535" alt="image" src="https://github.com/user-attachments/assets/b592f4b1-9ee8-436f-b037-c6a5e01d9646" />
+
 
 **Authentication**
 
