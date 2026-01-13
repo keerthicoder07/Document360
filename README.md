@@ -27,6 +27,7 @@ python-dotenv
 Logging module
 
 **Project Structure**
+<br>
 <img width="637" height="535" alt="image" src="https://github.com/user-attachments/assets/b592f4b1-9ee8-436f-b037-c6a5e01d9646" />
 
 
